@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-size: 64px;
+    color: red;
+    border-style: solid;
+    padding-top: 50px;
+    margin-bottom: 50px;
+    text-transform: capitalize;
+
+
+}
+h2{
+    text-align: center;
+    color: rosybrown;
+    padding-right: 50px;
+    margin-left: 50px;
+    text-transform: capitalize;
+}
+
+.welcome{
+    color: green;
+}
+h3{
+text-align: start;
+color: red;
+padding-inline-start: 50px;
+margin-left:50px ;
+text-transform: capitalize;
+}
+.love.money.pain&sacrifice.

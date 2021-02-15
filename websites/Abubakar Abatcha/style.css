@@ -1,0 +1,17 @@
+#styleheader {
+    text-align: center;
+    font-size: 64px;
+    color: #ff00ff;
+    text-decoration: underline;
+    border-style: dotted;
+    padding-top: 45px;
+    margin-bottom: 100px;
+    text-transform: capitalize;
+    
+
+}
+.webtech{ 
+    color: blue;
+    font-size: 24px;
+
+}

@@ -1,0 +1,11 @@
+#styleheader{
+    text-align:center;
+    font-size:85px;
+    text-decoration: underline;
+    color:turquoise;
+		}
+img{
+	width:500px;
+	height:500px;
+	border-radius:360%;
+}

@@ -1,0 +1,16 @@
+#styledid{
+    text-align: center;
+    font-size: 55px;
+    color: #00ffff;
+    border-bottom:dashed;
+    padding-inline-start: 100px;
+    margin-bottom: 100px;
+    text-transform: capitalize;
+}
+
+
+.webtech{
+    color:darkblue;
+    font-size: 24px;
+
+}

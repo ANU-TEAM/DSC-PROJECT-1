@@ -1,0 +1,45 @@
+#footer {
+    text-align: center;
+    font-size: 64px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    background-color: rgb(19, 115, 184);
+    
+    
+
+}
+.container img 
+          { height: 250px;
+            width: 250px;
+           
+            
+                border: 1px solid rgb(78, 95, 107);
+                border-radius: 4px ;
+                padding: 5px;
+                
+                  
+
+}
+
+#science { 
+      text-align: center;
+      font-size: 30px;
+      text-decoration: underline;           
+    
+              
+
+
+}
+#science2 {
+
+     background-color:rgba(0, 0, 0, 0.616);
+     color: white;
+
+
+}
+.container1 img {
+           height: 10%;
+           width: 10%;
+         
+
+}

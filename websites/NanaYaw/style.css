@@ -1,0 +1,38 @@
+.header {
+      background-color: red;
+}
+
+body{
+background-color: white;
+padding: 20px;
+text-align: center;
+}
+
+#styleheader {
+text-align: center ;    
+font-size: 60px;
+text-decoration: underline;
+text-transform: capitalize;
+background-color: salmon;
+
+
+
+}
+.container img {
+       height: 250px;
+       width: 250px;
+       margin: 5px;
+
+
+}
+
+
+.container1 img {
+      height: 250px;
+      width: 250px;
+}
+
+.foot{
+      background-color: red;
+}
+      
